@@ -22,11 +22,11 @@
 
 // console.log(myAns)
 
-let MyLetter = ` Dear ...ma,
-    greeting
+// let MyLetter = ` Dear ...ma,
+//     greeting
     
-    conclusion
-`
+//     conclusion
+// `
 // console.log(MyLetter);
 
 // let a = 'john'
@@ -52,24 +52,44 @@ let MyLetter = ` Dear ...ma,
 // console.log(wordcount)
 
 
+          /*   CLASSWORK  */
 
-let me = 'I am learning javascript.'
+// let me = 'I am learning javascript.'
 
-let b = me.toUpperCase()
+// let b = me.toUpperCase()
 
-let s = me.slice(4)
+// let s = me.slice(4)
 
-let f = me.replace('javascript', 'coding')
+// let f = me.replace('javascript', 'coding')
 
-let r = me.length
+// let r = me.length
 
-let h = me.replace('javascript', 'coding').slice(4).toUpperCase()
+// let h = me.replace('javascript', 'coding').slice(4).toUpperCase()
 
-console.log(me)
-console.log(b)
-console.log(s)
-console.log(f)
-console.log(r)
-console.log(h)
+// console.log(me)
+// console.log(b)
+// console.log(s)
+// console.log(f)
+// console.log(r)
+// console.log(h)
 
+// let mySchool = 'TechGen'
+// let longSentence = 'To retreive the last character of any string'
 
+// console.log(mySchool[2])
+// console.log(longSentence[longSentence.length - 1])
+
+// console.log(longSentence[0], longSentence[longSentence.length - 1])
+
+// let fName = "Ibraahiim"
+// let lName = "AbdurRahiim"
+
+// let initials = fName[0] + lName[0];
+
+// console.log(initials)
+
+let longSentence = 'To retreive the last character of any string'
+
+console.log(longSentence.includes('ismail'))
+console.log(longSentence.startsWith('to'))
+console.log(longSentence.endsWith('to'))
